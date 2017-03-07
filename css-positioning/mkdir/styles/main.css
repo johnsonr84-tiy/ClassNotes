@@ -1,0 +1,12 @@
+body {
+  background: darkslategrey;
+  color: rgb(68, 30, 81);
+}
+
+a {
+  color: rgb(68, 30, 81);
+}
+
+h1 {
+  border: 3px dotted limegreen;
+}

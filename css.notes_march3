@@ -1,0 +1,27 @@
+html:
+
+<div>
+
+<p></p>
+
+</div>
+
+
+<main>
+
+<p class="lamma"></p>
+
+</main>
+
+
+css:
+
+
+div,
+main p {
+
+}
+
+main p.lamma {
+
+}
