@@ -1,0 +1,31 @@
+# Keyboard Shortcuts
+
+`⌘\` toggle nav-tree in Atom
+
+`ctrl-shift-m` show markdown preview
+
+# Markdown
+
+## level 2 heading
+### level 3 heading
+#### level 4 heading
+##### level 5 heading
+###### level 6 heading
+
+Alt Heading Type
+================
+
+
+level 2 alt
+-----------
+
+Inline `code`
+
+- `$` - command line (CLI) prompt
+- `>` - repl prompt
+- `//` - single line JS Comment
+-
+
+2. ordered list
+1. where the actual
+0. numbers don't matter
