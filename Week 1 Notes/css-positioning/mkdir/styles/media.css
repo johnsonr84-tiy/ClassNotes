@@ -1,0 +1,33 @@
+@media (max-width: 450px) {
+  body{
+    background: fuchsia;
+    color: darkblue;
+  }
+}
+
+@media (min-width: 800px) {
+  body {
+    background: #505;
+      color: #F20000;
+  }
+
+  a {
+    color: #F20000;
+  }
+}
+
+@media (min-width: 450px) and (max-width: 800px) {
+  body {
+    font-family: sans-serif;
+}
+
+@media print {
+  body {
+    background: white;
+    color: black;
+  }
+
+a {
+    color: black;
+  }
+}

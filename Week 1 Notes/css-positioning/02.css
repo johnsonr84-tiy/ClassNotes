@@ -1,0 +1,30 @@
+body {
+  padding: 10%;
+}
+
+.grandparent {
+  padding: 10%;
+  background: mediumblue;
+  border: 1px solid darkslategrey;
+  position: initial;
+}
+
+.parent {
+  background: #fff;
+  border: 1px solid red;
+  position: initial; /* ETHER initial OR relative */
+}
+
+.child {
+  border: 1px solid khaki;
+  color: #fff;
+  background: #483088;
+  font-variant: small-caps;
+  padding: 1em;
+  position: initial; /* relative OR absolute OR fixed OR initial; DEFAULT static */
+  /* will also need to set one or more of the following:
+  top
+  right bottom
+  left
+  */
+}
